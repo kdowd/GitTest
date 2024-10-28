@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::cout << "Force Error!\n";
 
+	std::cout << "Really Force Error!\n";
 }
 
