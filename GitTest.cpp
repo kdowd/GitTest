@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Hello Worldy!\n";
+	std::cout << "Force Error!\n";
 }
 
