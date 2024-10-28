@@ -5,6 +5,6 @@
 int main()
 {
 
-	std::cout << "Really Force Error 5555555!\n";
+	std::cout << "Really Force Error 666666666!\n";
 }
 
